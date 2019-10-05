@@ -344,15 +344,14 @@ ul.sub-menu {
 /*************************
 *******Footer CSS******
 **************************/
-
 #footer {
   background: #F0F0E9;
 }
 
 
 .footer-top .container {
-  border-bottom: 0px solid #E0E0DA;
-  padding-bottom: 10px;
+  border-bottom: 1px solid #E0E0DA;
+  padding-bottom: 20px;
 }
 
 .companyinfo {
@@ -553,7 +552,7 @@ ul.sub-menu {
   color: #363432;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  margin-left: 0px;
+  margin-left: 15px;
 }
 
 .footer-bottom p span a {
@@ -561,6 +560,7 @@ ul.sub-menu {
   font-style: italic;
   text-decoration: underline;
 }
+
 
 
 /*************************
